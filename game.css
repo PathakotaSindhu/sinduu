@@ -1,0 +1,42 @@
+
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin: 50px;
+        background-image: url('https://www.shutterstock.com/image-vector/seamless-pattern-colorful-question-marks-260nw-1632290506.jpg'); 
+      background-size: cover; 
+      background-repeat: no-repeat;
+      background-attachment: fixed; 
+      
+      
+    }
+
+    #guess-input {
+        width: 60px;
+    }
+
+    #result {
+        margin-top: 20px;
+        font-weight: bold;
+    }
+
+    #attempts {
+        margin-top: 10px;
+    }
+    h1{
+        color: green;
+    }
+    h2{
+        color:green;
+    }
+     guessBtn-button {
+        
+        background-color: #4caf50; 
+        color: #fff; 
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+      }
+
